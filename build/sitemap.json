@@ -1,0 +1,42 @@
+{
+    "index":{
+        "name":"Index",
+        "url":"index.html"
+    },
+    "donate":{
+        "name":"Donate",
+        "url":"donate.html"
+    },
+    "admission":{
+        "name":"Admission",
+        "url":"admission.html"
+    },
+    "googleMap":{
+        "name":"Google Map",
+        "url":"googleMap.html"
+    },
+    "sponsors":{
+        "name":"Sponsors",
+        "url":"sponsors.html"
+    },
+    "sponsor1":{
+        "name":"    - Sponsor 1",
+        "url":"sponsor1.html"
+    },
+    "sponsor2":{
+        "name":"    - Sponsor 2",
+        "url":"sponsor2.html"
+    },
+    "sponsor3":{
+        "name":"    - Sponsor 3",
+        "url":"sponsor3.html"
+    },
+    "sponsor4":{
+        "name":"    - Sponsor 4",
+        "url":"sponsor4.html"
+    },
+    "sponsor5":{
+        "name":"     - Sponsor 5",
+        "url":"sponsor5.html"
+    }
+}
